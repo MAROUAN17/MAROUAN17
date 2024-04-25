@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/MAROUAN17/my-portfolio)
 
-- 👯 I’m looking to collaborate on [Minishell](https://github.com/Geesama02/Minishell)
+- 👯 I’m in collaboration on [Minishell](https://github.com/Geesama02/Minishell)
 
 - 📫 How to reach me **marouan.agl@gmail.com**
 
