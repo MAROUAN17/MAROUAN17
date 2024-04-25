@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marouan17&label=Profile%20views&color=0e75b6&style=flat" alt="marouan17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marouan17" alt="marouan17" /></a> </p>
-
 - 🔭 I’m currently working on [My Portfolio](https://github.com/MAROUAN17/my-portfolio)
 
 - 👯 I’m looking to collaborate on [Minishell](https://github.com/Geesama02/Minishell)
