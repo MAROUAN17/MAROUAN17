@@ -10,8 +10,8 @@
 - 📫 How to reach me **marouan.agl@gmail.com**
 
 <div align="center">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
+<p>
 <a href="https://twitter.com/clarion171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clarion171" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/marouan-aglagal-7501401a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marouan-aglagal-7501401a1/" height="30" width="40" /></a>
 <a href="https://instagram.com/marouan__agl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marouan__agl" height="30" width="40" /></a>
