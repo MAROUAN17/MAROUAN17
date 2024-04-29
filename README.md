@@ -22,3 +22,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marouan17&show_icons=true&locale=en&layout=compact" alt="marouan17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marouan17&" alt="marouan17" /></p>
+
+[![maglagal's 42 stats](https://badge.mediaplus.ma/binary/maglagal)](https://github.com/oakoudad/badge42)
