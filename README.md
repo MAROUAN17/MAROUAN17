@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marouan17&label=Profile%20views&color=0e75b6&style=flat" alt="marouan17" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/MAROUAN17/my-portfolio)
-
-- 👯 I’m in collaboration on [Minishell](https://github.com/Geesama02/Minishell)
-
 - 📫 How to reach me **marouan.agl@gmail.com**
 
 <div align="center">
