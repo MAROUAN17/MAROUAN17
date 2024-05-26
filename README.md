@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm MAROUAN</h1>
 <h3 align="center">👨‍💻 A Web Developer (NextJS, Laravel, MySQL)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marouan17&label=Profile%20views&color=0e75b6&style=flat" alt="marouan17" /> </p>
-
 - 📫 How to reach me **marouan.agl@gmail.com**
 
 <div align="center">
