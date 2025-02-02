@@ -1,7 +1,7 @@
 Hi 👋 My name is MAROUAN
 ========================
 
-Software Engineer
+Web Developer
 -----------------
 
 * 🌍  I'm based in Morocco
