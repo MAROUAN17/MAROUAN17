@@ -6,8 +6,8 @@ Web Developer
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [marouan.agl@gmail.com](mailto:marouan.agl@gmail.com)
-* 🚀  I'm currently working on [Fasting typing app](http://github.com/MAROUAN17/fast-typing-vanillaJS)
-* 🧠  I'm learning Spring Boot Java
+* 🚀  I'm currently working on [Online IDE](https://github.com/MAROUAN17/online-ide)
+* 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on Any type of web apps
 
 ### Skills
