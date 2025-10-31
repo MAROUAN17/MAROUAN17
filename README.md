@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [marouan.agl@gmail.com](mailto:marouan.agl@gmail.com)
-* 🚀  I'm currently working on [Online IDE](https://github.com/MAROUAN17/online-ide)
+* 🚀  I'm currently working on [ft_transcendence]([https://github.com/MAROUAN17/online-ide](https://github.com/MAROUAN17/-42cursus-ft_transcendence))
 * 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on Any type of web apps
 
