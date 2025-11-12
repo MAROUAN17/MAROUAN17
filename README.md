@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [marouan.agl@gmail.com](mailto:marouan.agl@gmail.com)
-* 🚀  I'm currently working on [ft_transcendence]([https://github.com/MAROUAN17/-42cursus-ft_transcendence)
+* 🚀  I'm currently working on [ft_transcendence]([https://github.com/MAROUAN17/-42cursus-ft_transcendence])
 * 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on Any type of web apps
 
@@ -25,4 +25,4 @@ Web Developer
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/MAROUAN17/-42cursus-ft_transcendence" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MAROUAN17&repo=online-ide&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/MAROUAN17/-42cursus-Webserv" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MAROUAN17&repo=-42cursus-Webserv&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/MAROUAN17/-42cursus-ft_transcendence" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MAROUAN17&repo=-42cursus-ft_transcendence&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/MAROUAN17/-42cursus-Webserv" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MAROUAN17&repo=-42cursus-Webserv&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
